@@ -1,0 +1,6 @@
+core
+!core/.gitkeep
+ground_station
+!ground_station/.gitkeep
+parts
+!parts/.gitkeep
