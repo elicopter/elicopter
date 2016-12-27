@@ -4,3 +4,4 @@ ground_station
 !ground_station/.gitkeep
 parts
 !parts/.gitkeep
+.DS_Store
