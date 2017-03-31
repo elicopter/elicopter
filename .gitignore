@@ -1,7 +1,9 @@
 core
 !core/.gitkeep
-ground_station
-!ground_station/.gitkeep
+ground-station
+!ground-station/.gitkeep
 parts
 !parts/.gitkeep
 .DS_Store
+elicopter_system_rpi3
+nerves_system_br

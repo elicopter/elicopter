@@ -1,64 +1,42 @@
-# Elicopter [![Slack Status](https://elicopter-slackin.herokuapp.com/badge.svg)](https://elicopter-slackin.herokuapp.com/)
+![Elicopter](logo.png)
+=========
 
 Glue between all Elicopter components.
 
-## Getting Started
+## Frame
 
-### Clone Repositories
+![Elicopter](elicopter_v2-1.jpg)
 
-Clone `core` repository:
+> Note: STL files are coming soon on Thingiverse.
+
+## Software
+
+`Core` repository:
 ```
 git clone https://github.com/elicopter/core.git
 ```
 
-Clone `ground_station` repository:
+`Ground Station` repository:
 ```
-git clone https://github.com/elicopter/ground_station.git
-```
-
-Clone `parts` repository (coming soon):
-```
-git clone https://github.com/elicopter/parts.git
+git clone https://github.com/elicopter/ground-station.git
 ```
 
-### Run RabbitMQ
-
-RabbitMQ handles communication between `core` and `ground_station`.
-
-Run with Docker:
+`Elicopter System RPI3` repository (fork of nerves_system_rpi3):
 ```
-docker run --name elicopter-rabbitmq -d -p 15672:15672 -p 5672:5672 rabbitmq:3-management
-```
-
-### Configure RabbitMQ
-
-Add `core` user:
-```
-docker exec -ti elicopter-rabbitmq rabbitmqctl add_user core core
-docker exec -ti elicopter-rabbitmq rabbitmqctl set_permissions -p / core ".*" ".*" ".*"
-```
-
-Add `ground_station` user:
-```
-docker exec -ti elicopter-rabbitmq rabbitmqctl add_user ground_station ground_station
-docker exec -ti elicopter-rabbitmq rabbitmqctl set_permissions -p / ground_station ".*" ".*" ".*"
+git clone https://github.com/elicopter/elicopter_system_rpi3
 ```
 
 ### Run
 
 * To run `core`, check the project documentation [here](https://github.com/elicopter/core).
-* To run `ground_station`, check the project documentation [here](https://github.com/elicopter/ground_station).
+* To run `ground-station`, check the project documentation [here](https://github.com/elicopter/ground_station).
+
+
+## Bill of Material (Coming soon)
 
 ## Contributing
 
 Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Authors
-
-* **Loic Vigneron** - [Spin42](https://github.com/spin42)
-* **Marc Lainez** - [Spin42](https://github.com/spin42)
-* **Thibault Poncelet** - [Spin42](https://github.com/spin42)
-* **Who's next? :)**
 
 ## License
 
