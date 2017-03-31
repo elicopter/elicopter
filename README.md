@@ -11,17 +11,17 @@ Glue between all Elicopter components.
 
 ## Software
 
-`Core` repository:
+[Core](https://github.com/elicopter/core) repository:
 ```
 git clone https://github.com/elicopter/core.git
 ```
 
-`Ground Station` repository:
+[Ground Station](https://github.com/elicopter/ground_station) repository:
 ```
 git clone https://github.com/elicopter/ground-station.git
 ```
 
-`Elicopter System RPI3` repository (fork of nerves_system_rpi3):
+[Elicopter System RPI3](https://github.com/elicopter/elicopter_system_rpi3)` repository (fork of nerves_system_rpi3):
 ```
 git clone https://github.com/elicopter/elicopter_system_rpi3
 ```
