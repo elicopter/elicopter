@@ -21,7 +21,7 @@ git clone https://github.com/elicopter/core.git
 git clone https://github.com/elicopter/ground-station.git
 ```
 
-[Elicopter System RPI3](https://github.com/elicopter/elicopter_system_rpi3)` repository (fork of nerves_system_rpi3):
+[Elicopter System RPI3](https://github.com/elicopter/elicopter_system_rpi3) repository (fork of nerves_system_rpi3):
 ```
 git clone https://github.com/elicopter/elicopter_system_rpi3
 ```
