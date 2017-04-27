@@ -7,7 +7,7 @@ Glue between all Elicopter components.
 
 ![Elicopter](elicopter_v2-1.jpg)
 
-> Note: STL files are coming soon on Thingiverse.
+> Note: STL files are available on [Thingiverse](http://www.thingiverse.com/thing:2277533).
 
 ## Software
 
