@@ -65,10 +65,10 @@ git clone https://github.com/elicopter/elicopter_system_rpi3
 | PDB 5v 12v | 1 | [Banggood](https://www.banggood.com/Matek-Mini-Power-Hub-Power-Distribution-Board-With-BEC-5V-And-12V-For-FPV-Multicopter-p-1005549.html?rmmds=search&cur_warehouse=CN)
 | Carbon Tube 8mm | 2x 30cm |  [Hobbyking](https://hobbyking.com/fr_fr/carbon-fiber-tube-hollow-8x750mm.html)
 | Carbon Tube 16mm | 2x 30cm | [Hobbyking](https://hobbyking.com/fr_fr/carbon-fiber-round-tube-330x16x14mm.html)
-| LED | 1 | [Adafruit](https://www.adafruit.com/product/1426)
+| LED Strip | 1 | [Adafruit](https://www.adafruit.com/product/1426)
 | 16-Channel 12-bit PWM/Servo Driver - I2C interface | 1 | [Adafruit](https://www.adafruit.com/product/815)
 | USB to TTL Serial Cable | 1 | [Adafruit](https://www.adafruit.com/product/954)
-| Level Shifter| 1 | [Adafruit](https://www.adafruit.com/product/1875)
+| Level Shifter 3v->5v | 1 | [Adafruit](https://www.adafruit.com/product/1875)
 | M2 -> M5 screws, nuts | * |
 | Radio Receiver | 1 |
 
