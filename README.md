@@ -18,7 +18,7 @@ motor_support_tube_fix_v3.stl.        | 4
 pcb_support_v10.stl                   | 1
 tube_fix_bottom_v3.stl                | 4
 raspberry_model_b_v4.stl              | 1
-tube_inner_fix_1_v3.stl               | 4 (with stop at layer 58 for M3 nut see: [tube_inner_fix_1_v3](parts/tube_inner_fix_1_v3_layer_58.png))
+tube_inner_fix_1_v3.stl               | 4 (with stop at layer 58 for M3 nut see: [tube_inner_fix_1_v3](images/tube_inner_fix_1_v3_layer_58.png))
 propeller_guard_bottom_v4.stl         | 4
 stand_v1.stl                          | 2
 motor_spacer_v13.stl                  | 4
@@ -28,7 +28,7 @@ propeller_guard_guide_v14.stl         | 4
 tube_fix_top_v3.stl                   | 2
 propellers_guard_top_v4.stl           | 4
 battery_fix_v2.stl                    | 2
-motor_base_support_v13.stl            | 4 (with stop at layer for 4xM3 nuts see: [motor_base_support_v13](parts/motor_base_support_v13_layer_58.png))
+motor_base_support_v13.stl            | 4 (with stop at layer for 4xM3 nuts see: [motor_base_support_v13](images/motor_base_support_v13_layer_58.png))
 
 ## Software
 
