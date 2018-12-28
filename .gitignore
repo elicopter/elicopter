@@ -2,7 +2,6 @@ core
 !core/.gitkeep
 ground-station
 !ground-station/.gitkeep
-parts
 !parts/.gitkeep
 .DS_Store
 elicopter_system_rpi3
